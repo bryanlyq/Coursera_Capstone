@@ -1,8 +1,9 @@
 # Coursera_Capstone
 Repository for Coursera's IBM Applied Data Science Capstone
 
-# Course Contents:https://github.com/bryanlyq/Coursera_Capstone/blob/master/README.md
 # Week 1 - Introduction to Capstone Project
+
+
 Introduction to Capstone Project
 Location Data Providers
 Signing-up for a Watson Studio Account
